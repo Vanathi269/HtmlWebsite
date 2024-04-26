@@ -1,0 +1,183 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.headside{
+    
+    display: flex;
+    justify-content:space-around;
+    width: 25%;
+}
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+     position: sticky;
+     top: 0px;
+    padding: 3px;
+    background-color: rgb(77, 219, 172);
+   
+
+}
+.greemy{
+    padding-left: 15px;
+}
+body{
+    font-family: 'REM', sans-serif;
+    font-size: large;
+}
+.top{
+    padding-top: 5px;
+    float: right;
+}
+.pot{
+    padding: 40px;
+    background-color: aquamarine;
+}
+.info{
+    color: grey;
+}
+.buttontop{
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 180px;
+    font-size: large;
+}
+button:hover{
+    background-color: white;
+    border:solid black 2px;
+    color: black;
+    cursor: pointer;
+}
+img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+i{
+    cursor: pointer;
+}
+.About{
+    padding-top: 5px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.abt{
+    padding: 5px;
+    text-align: center;
+}
+.Us{
+    
+    padding: 15px;
+    color: black;
+    border: solid black 1px;
+    width: 250px;
+    text-align: center;
+}
+i{
+    font-size: 35px;
+}
+.prohead{
+    text-align: center;
+}
+.product{
+    padding-top: 5px;
+    background-color:aquamarine;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: medium;
+}
+.proreview{
+    padding-top:  15px;
+    padding-bottom: 15px;
+}
+.plant1{
+    padding: 15px;
+    color: black;
+    position: relative;
+    top: -45px;
+    text-align: center;
+}
+.plant2{
+    padding: 15px;
+    color: black;
+    position: relative;
+    top: 30px;
+    text-align: center;
+}
+.plant3{
+    padding: 15px;
+    color: black;
+    position: relative;
+    top: -45px;
+    text-align: center;
+}
+.letter{
+    text-align: center;
+}
+.bs{
+    padding-top: 5px;
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px; 
+}
+.best{
+    padding: 15px;
+    color: black;
+    text-align: center;
+}
+.new{
+    padding-top: 5px;
+    width: 750px;
+    height: 30px;
+    
+}
+.jion{
+    text-align: center;
+}
+.subscribe{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+   
+}
+button{
+    margin: 5px;
+}
+.client{
+    
+    float: left;
+    position: relative;
+    top: -25px;
+    margin-left: 0%;
+}
+.review{
+    
+    float: right;
+    padding-top: 55px;
+    padding-right : 135px;
+}
+.say{
+    background-color: aquamarine;
+    width: 1334px;
+    height: 400px;
+    margin-left: 15px;
+}
+.footer{
+    padding-top: 55px;
+    background-color: aquamarine;
+    height: 200px;
+    padding-left: 25px;
+}
+.site{
+    color: grey;
+}

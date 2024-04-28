@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1{
+    display: inline-block;
+    width: 75%;
+}
+ul{
+    display: inline;
+}
+li:hover{
+    color:white;
+  
+}
+li{
+    display: inline;
+    color:grey;
+    cursor: pointer;
+}
+input{
+    width: 60%;
+    padding: 10px;
+}
+.searchbar{
+    padding: 30px;
+   /* margin-left: 300px;
+   */text-align: center; 
+}
+.box1{
+    display: inline-block;
+    width: 220px;
+    border: solid black 2px;
+    text-align: center;
+}
+.box2{
+    display: inline-block;
+    width: 220px;
+    border: solid black 2px;
+    text-align: center;
+}
+.box3{
+    display: inline-block;
+    width: 220px;
+    border: solid black 2px;
+    text-align: center;
+}
+.perfumecontainer{
+   /* padding-left: 300px;
+    padding-top: 150px;
+*/ text-align: center;
+}
+.aboutus{
+    padding-top: 50px;
+    text-align: center;
+}
+.abt{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.contact{
+    background-color: black;
+}
+.info{
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+    
+}
+.para{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    text-align: center;
+}

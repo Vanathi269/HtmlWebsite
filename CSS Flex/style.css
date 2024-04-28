@@ -1,0 +1,28 @@
+/*.container{
+    display: flex;
+    border: solid red 3px;
+    /*width: 100px;
+    flex-wrap: wrap;elements will arrange in the container
+    justify-content: space-around;/*making the contents in the element alignment while dealing with row
+}
+.box{
+    border: solid black 2px;
+    margin: 2px;
+}*/
+.container{
+    display: flex;
+    border: solid yellow 5px;
+    background-color: black;
+    justify-content: space-around;
+   
+}
+.box{
+    margin: 5px;
+    border: solid white 2px;
+    color: white;
+    background-color: black;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
